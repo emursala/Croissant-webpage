@@ -1,0 +1,26 @@
+body {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(255, 214, 171) 0%,
+    rgb(255, 182, 182) 90%
+  );
+}
+h2 {
+  font-size: 22px;
+  font-weight: lighter;
+}
+a {
+  margin: 0 10px;
+}
+img {
+  width: 450px;
+}
+.links {
+  margin: 30px;
+}
+.links:visited {
+  color: orangered;
+}
